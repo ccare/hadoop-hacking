@@ -3,4 +3,6 @@
 build:
 	bash package.sh
 clean:
-	rm -rf wordcount.jar wordcount_classes 
+	rm -rf wordcount.jar wordcount_classes output 
+run: 
+	bash run.sh
