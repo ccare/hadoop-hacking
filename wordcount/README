@@ -1,0 +1,12 @@
+The word counter from the hadoop how to
+
+Package:
+  mvn clean package
+
+Run:
+  ./run.sh
+
+I've not bothered runing the script with mvn:exec because this is just me playing around. 
+
+nb: there are environment specific settings in setEnv.sh
+
